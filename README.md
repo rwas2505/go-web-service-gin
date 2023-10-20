@@ -12,6 +12,11 @@ curl http://localhost:8080/albums \
     --request "GET"
 ```
 
+## Get Album
+```
+curl http://localhost:8080/albums/2
+```
+
 ## Post Album
 ```
 curl http://localhost:8080/albums \
